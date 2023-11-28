@@ -1,0 +1,6 @@
+bin/**
+obj/**
+/aus-borghoff.csv
+/ein-borghoff.csv
+/info-borghoff.jpg
+/bwi40321.csproj
